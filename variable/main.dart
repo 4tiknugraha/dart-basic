@@ -1,5 +1,5 @@
 void main(List<String> args) {
-  double panjang, lebar;
+  var panjang, lebar;
   panjang = 20;
   lebar = 12;
   var persegiPanjang = panjang * lebar;
